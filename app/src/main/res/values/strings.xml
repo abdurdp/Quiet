@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiet</string>
+    <string name="welcome_to_quite">Welcome To Quite</string>
+    <string name="dynamic_profile_changer">Dynamic Profile Changer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
